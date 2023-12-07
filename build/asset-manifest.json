@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.c47aa35d.js",
+    "static/media/ConnectBack.png": "/static/media/ConnectBack.d841411ea4deacb837c2.png",
+    "static/media/background_gradient1.png": "/static/media/background_gradient1.c690380526f40e3d4dbc.png",
+    "static/media/footer_radiant.png": "/static/media/footer_radiant.77ed89077cfb31abeea9.png",
+    "static/media/register-profile.png": "/static/media/register-profile.985b9bbbe2cd6f7b55b7.png",
+    "static/media/telecommunication.png": "/static/media/telecommunication.a83ca93332f06ebdccd8.png",
+    "index.html": "/index.html",
+    "static/media/down-arrow-svgrepo-com.svg": "/static/media/down-arrow-svgrepo-com.6e4139e1a05d5bef5224715275c01337.svg",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.c47aa35d.js.map": "/static/js/main.c47aa35d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c47aa35d.js"
+  ]
+}
